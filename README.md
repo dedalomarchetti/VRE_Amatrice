@@ -39,10 +39,10 @@ and at ICCSA 2025 under the title:
 ## Collaborators
 The collaborators of this work are:
 
-Dedalo Marchetti 1, Daniele Bailo 1, Jan Michalek 2, Rossana Paciello 1, Giuseppe Falcone 1, Alessandro Piscini 1
+Dedalo Marchetti (1), Daniele Bailo (1), Jan Michalek (2), Rossana Paciello (1), Giuseppe Falcone (1), Alessandro Piscini (1)
 
-Istituto Nazionale di Geofisica e Vulcanologia (INGV), Italy
-University of Bergen, Norway
+1. Istituto Nazionale di Geofisica e Vulcanologia (INGV), Italy  
+2. University of Bergen, Norway
 
 ## License
 
