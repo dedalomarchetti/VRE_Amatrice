@@ -47,3 +47,8 @@ Dedalo Marchetti (1), Daniele Bailo (1), Jan Michalek (2), Rossana Paciello (1),
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Citation
+
+If you use this VRE, please insert the following citation:  
+[DOI: 10.5281/zenodo.15365530](https://doi.org/10.5281/zenodo.15365530)
